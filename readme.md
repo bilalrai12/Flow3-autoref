@@ -19,8 +19,8 @@ This bot automates the process of creating accounts and using referral codes for
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/flow3-autoref.git
-   cd flow3-autoref
+   git clone https://github.com/bilalrai12/Flow3-autoref.git
+   cd Flow3-autoref
    ```
 
 2. Install the dependencies:
